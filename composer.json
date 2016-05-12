@@ -1,0 +1,13 @@
+{
+    "name": "qSebastiaNp/fpdf",
+    "description": "FPDF for Yii2",
+    "keywords": ["yii2", "fpdf"],
+    "type": "yii2-extension",
+    "minimum-stability": "stable",
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": { "qsebastianp\\fpdf\\": "src\\" }
+    }
+}
